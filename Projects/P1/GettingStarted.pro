@@ -63,6 +63,7 @@ DEFINES     +=  main=qMain qMain=studentMain
 # entries, so no worries about duplicates
 SOURCES         *=  "" \
     IsPerfect.cpp \
+    histogram.cpp \
     soundex.cpp \
     voteSimulation.cpp
 HEADERS         *=  ""

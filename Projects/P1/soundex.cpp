@@ -26,8 +26,8 @@ string soundexConv (string surname) {
     return res;
 }
 
-int main() {
-    string surname = getLine("Enter your surname");
-    cout << "Corresponding soundex token: " << soundexConv(surname);
-    return 0;
-}
+//int main() {
+//    string surname = getLine("Enter your surname");
+//    cout << "Corresponding soundex token: " << soundexConv(surname);
+//    return 0;
+//}
